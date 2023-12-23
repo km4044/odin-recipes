@@ -1,0 +1,15 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+.title {
+    text-align: center;
+}
+.dscr {
+    color: brown;
+}
+h3 {
+    color: blue;
+}
+a {
+    color: blue;
+}
